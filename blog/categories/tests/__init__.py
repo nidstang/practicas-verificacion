@@ -1,0 +1,1 @@
+from categories.tests.test_models import *
